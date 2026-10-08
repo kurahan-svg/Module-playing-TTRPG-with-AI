@@ -1,2 +1,2 @@
-# Module-playing-TTRPG-with-AI
+# Module-TTRPG-with- All-AI
 module buat main ttrpg kaya dnd dengan semua AI
